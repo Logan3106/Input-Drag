@@ -64,6 +64,7 @@ public class DragController : MonoBehaviour
 
     void InitDrag()
     {
+        lastDragged.LastPosition = lastDragged.transform.position;
         UpdateDragStatus(true);
     }
 
@@ -80,6 +81,6 @@ public class DragController : MonoBehaviour
     void UpdateDragStatus(bool isDragging)
     {
         isDragActive = lastDragged.IsDragging = isDragging;
-        gameObject.layer = isDragging ? Layer.Dragging : Layer.Default;
+        lastDragged.gameObject.layer = isDragging ? Layer.Dragging : Layer.Default;
     }
 }
