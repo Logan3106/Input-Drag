@@ -1,0 +1,21 @@
+                    -HC:\temp\Logan anta\Input-Drag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=22
+-DANDROID_PLATFORM=android-22
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=C:\temp\Unity Android Dependencies\Android SDK\ndk\23.1.7779620
+-DCMAKE_ANDROID_NDK=C:\temp\Unity Android Dependencies\Android SDK\ndk\23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=C:\temp\Unity Android Dependencies\Android SDK\ndk\23.1.7779620\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\temp\Unity Android Dependencies\Android SDK\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\temp\Logan anta\Input-Drag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4g216342\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\temp\Logan anta\Input-Drag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4g216342\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-DCMAKE_FIND_ROOT_PATH=C:\temp\Logan anta\Input-Drag\.utmp\RelWithDebInfo\4g216342\prefab\armeabi-v7a\prefab
+-BC:\temp\Logan anta\Input-Drag\.utmp\RelWithDebInfo\4g216342\armeabi-v7a
+-GNinja
+-DBUILD_GRADLE_DIRECTORY=C:\temp\Logan anta\Input-Drag\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary
+-DANDROID_STL=c++_shared
+                    Build command args: []
+                    Version: 2
